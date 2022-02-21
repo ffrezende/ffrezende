@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![profile counter](https://komarev.com/ghpvc/?username=ffrezende&color=brightgreen)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
